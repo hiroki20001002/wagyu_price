@@ -28,11 +28,14 @@ p {
 .result a {
   color: #343a40;
 }
+
 .card {
   border-radius: 0;
 }
 
-
+.btn btn-lg submit-color{
+  background-color: #17a2b8;
+}
 
 @media screen and (min-width:576px) {
   .row {
@@ -42,7 +45,7 @@ p {
 
 
 .submit-color {
-  background-color: #DE660D;
+  background-color: #17a2b8;
   color: white;
   opacity: 0.9;
   transition: all 0.4s;
